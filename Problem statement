@@ -1,0 +1,6 @@
+Online Photography Print Selling is a web-based platform where customers can browse and purchase photographs as physical prints.
+Users: Customers, Photographers, and Admin.
+Problem: Photographers have difficulty reaching customers and selling photo prints online, while customers lack a convenient platform to discover and order quality photographs.
+Solution: Develop an online platform where photographers can upload photos, set print sizes and prices, and customers can browse, add prints to cart, and place orders.
+Core Entities: User, Photographer, Photo, Print, Cart, Order, Order Item, Payment.
+Success Criteria: Users should be able to find a photo, select print options, add it to cart, and successfully place an order.
